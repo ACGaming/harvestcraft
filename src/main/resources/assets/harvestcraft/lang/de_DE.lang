@@ -16,15 +16,13 @@ tile.waxcomb.name=Bienenwachsblock
 tile.groundtrap.name=Bodenfalle
 tile.watertrap.name=Wasserfalle
 
-sink_0.name=Wasserfass
-sink_1.name=Steinbecken
-sink_2.name=Tonkrug
-sink_3.name=Ziegelbrunnen
+tile.well.name=Brunnen
 
 harvestcraft.tile.salt.name=Salzerz
 harvestcraft.tile.pamcompressedsaltBlock.name=Verdichteter Salzblock
 
 tile.market.name=Markt
+tile.shippingbin.name=Versandbehälter
 
 harvestcraft.tile.oven.name=Backofen
 
@@ -1116,3 +1114,23 @@ item.honeybunItem.name=Honigbrötchen
 item.honeyglazedcarrotsItem.name=Honigglasierte Karotten
 item.honeyglazedhamItem.name=Honigglasierter Schinken
 item.honeysoyribsItem.name=Honig-Soja-Rippchen
+
+item.rawtofeakItem.name=Rohes Tofeak
+item.rawtofaconItem.name=Roher Tofacon
+item.rawtofishItem.name=Roher Tofisch
+item.rawtofeegItem.name=Rohes Tofei
+item.rawtofuttonItem.name=Roher Tofammel
+item.rawtofickenItem.name=Rohes Tofühnchen
+item.rawtofabbitItem.name=Rohes Tofaninchen
+item.rawtofurkeyItem.name=Roher Tofuthahn
+item.rawtofenisonItem.name=Rohes Tofild
+
+item.cookedtofeakItem.name=Gekochtes Tofeak
+item.cookedtofaconItem.name=Gekochter Tofacon
+item.cookedtofishItem.name=Gekochter Tofisch
+item.cookedtofeegItem.name=Gekochtes Tofei
+item.cookedtofuttonItem.name=Gekochter Tofammel
+item.cookedtofickenItem.name=Gekochtes Tofühnchen
+item.cookedtofabbitItem.name=Gekochtes Tofaninchen
+item.cookedtofurkeyItem.name=Gekochter Tofuthahn
+item.cookedtofenisonItem.name=Gekochtes Tofild
